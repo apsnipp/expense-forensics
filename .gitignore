@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local data / outputs (do NOT commit)
+*.sqlite
+report*.html
+data/
+*.csv
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
